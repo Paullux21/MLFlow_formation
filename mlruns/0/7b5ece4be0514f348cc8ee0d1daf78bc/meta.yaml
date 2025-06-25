@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/7b5ece4be0514f348cc8ee0d1daf78bc/artifacts
+end_time: 1750841588842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b5ece4be0514f348cc8ee0d1daf78bc
+run_name: handsome-bug-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841588825
+status: 4
+tags: []
+user_id: administrateur

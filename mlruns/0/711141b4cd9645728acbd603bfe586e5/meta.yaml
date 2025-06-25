@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/711141b4cd9645728acbd603bfe586e5/artifacts
+end_time: 1750842222291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 711141b4cd9645728acbd603bfe586e5
+run_name: funny-robin-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842222275
+status: 4
+tags: []
+user_id: administrateur

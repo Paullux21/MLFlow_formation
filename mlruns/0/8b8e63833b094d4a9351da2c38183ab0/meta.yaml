@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/8b8e63833b094d4a9351da2c38183ab0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8e63833b094d4a9351da2c38183ab0
+run_name: exultant-dove-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841712940
+status: 1
+tags: []
+user_id: administrateur

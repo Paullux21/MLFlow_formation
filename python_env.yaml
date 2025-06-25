@@ -1,0 +1,15 @@
+python: "3.10.12"
+
+#Optionnal: build dependencies
+# Inclus dans pytho, mais on le met au cas ou -- Ces Build Dep installent les autres dependencies
+build_dependencies:
+  - pip
+  - setuptools
+  - wheel==0.37.1
+
+# Runtime dependencies
+dependencies:
+  - mlflow==3.1.0
+  - scikit-learn==1.7.0
+  - pandas==2.3.0
+

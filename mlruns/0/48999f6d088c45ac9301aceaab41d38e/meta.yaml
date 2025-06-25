@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/48999f6d088c45ac9301aceaab41d38e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48999f6d088c45ac9301aceaab41d38e
+run_name: angry-hog-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841570293
+status: 1
+tags: []
+user_id: administrateur

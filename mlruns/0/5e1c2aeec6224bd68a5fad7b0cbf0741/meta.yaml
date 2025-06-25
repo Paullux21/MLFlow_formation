@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/5e1c2aeec6224bd68a5fad7b0cbf0741/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e1c2aeec6224bd68a5fad7b0cbf0741
+run_name: marvelous-newt-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842050229
+status: 1
+tags: []
+user_id: administrateur

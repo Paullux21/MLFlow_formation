@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/f7a263378d34469b8d941d40f66c3557/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7a263378d34469b8d941d40f66c3557
+run_name: skittish-ram-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841475237
+status: 1
+tags: []
+user_id: administrateur

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/04eb5fa5f04c408cb1f01e56fb6609b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04eb5fa5f04c408cb1f01e56fb6609b9
+run_name: learned-gnat-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841871399
+status: 1
+tags: []
+user_id: administrateur

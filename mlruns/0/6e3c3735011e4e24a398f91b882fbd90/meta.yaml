@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/6e3c3735011e4e24a398f91b882fbd90/artifacts
+end_time: 1750842284019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e3c3735011e4e24a398f91b882fbd90
+run_name: popular-mole-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842279753
+status: 4
+tags: []
+user_id: administrateur

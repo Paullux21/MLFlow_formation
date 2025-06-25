@@ -1,0 +1,24 @@
+name: MLFlow with Iris 
+
+python_env: python_env.yaml
+
+entry_points: 
+  main:
+    parameters: 
+      input_data: {type: path, default: data/raw/iris.csv}
+      output_folder: {type: path, default: data/processed}
+      training_data: {type: path, default: data/processed/train.csv}
+      tracking_uri: {type: str, default: http://127.0.0.1:8080}
+      model_name: {type: str, default: iris_model}
+      test_data: {type: path , default: data/processed/test.csv}
+    
+    command: |
+              bash scripts/pipeline.sh \
+              --input_data {input_data} \
+              --output_folder {output_folder} \
+              --training_data {training_data} \
+              --tracking_uri {tracking_uri} \
+              --model_name {model_name} \
+              --test_data {test_data}
+
+

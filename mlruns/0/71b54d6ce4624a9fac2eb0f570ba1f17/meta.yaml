@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/71b54d6ce4624a9fac2eb0f570ba1f17/artifacts
+end_time: 1750842323676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71b54d6ce4624a9fac2eb0f570ba1f17
+run_name: fearless-swan-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842319332
+status: 4
+tags: []
+user_id: administrateur

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrateur/Bureau/formation_MLFlow/integration%20mlflow/mlruns/0/712d91245a0c4afb8d82ee9bcca8e6a0/artifacts
+end_time: 1750842355834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 712d91245a0c4afb8d82ee9bcca8e6a0
+run_name: powerful-hawk-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842350762
+status: 3
+tags: []
+user_id: administrateur
